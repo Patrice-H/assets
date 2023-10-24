@@ -1,0 +1,37 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.requireConfig": true,
+    "prettier.tabWidth": 4,
+    "workbench.colorCustomizations": {
+        
+        "activityBar.activeBackground": "#6e018a",
+        "activityBar.background": "#c202f1",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#000",
+        "activityBarBadge.background": "#496cf6",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#c202f1",
+        "statusBar.background": "#6e018a",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#c202f1",
+        "statusBarItem.remoteBackground": "#6e018a",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#6e018a",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#6e018a99",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "php.validate.executablePath": "C:/Program Files/php/php.exe",
+    "emmet.preferences": {
+    
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "redhat.telemetry.enabled": true,
+    "boot-java.rewrite.reconcile": true,
+    "java.configuration.runtimes": [],
+    "workbench.colorTheme": "Default Dark+",
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+}
